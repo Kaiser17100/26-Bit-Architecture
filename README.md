@@ -1,6 +1,6 @@
 # 26-bit MIPS Processor
 ## Description
-A Logisim-based project featuring both **Single-Cycle** and **Multi-Cycle** implementations of a custom 26-bit processor based on the MIPS architecture. This project contains the circuit designs and documentation for a custom 26-bit CPU. Unlike standard 32-bit MIPS, this project uses a adjusted 26-bit datapath and instruction set architecture (ISA) built entirely in Logisim.
+A Logisim-based project featuring both **Single-Cycle** and **Multi-Cycle** implementations of a custom 26-bit processor based on the __MIPS architecture__. This project contains the circuit designs and documentation for a custom 26-bit CPU. Unlike standard 32-bit MIPS, this project uses a adjusted 26-bit datapath and instruction set architecture built entirely in Logisim.
 
 ## Features
 - **Single-Cycle Datapath:** Executes each instruction in one long clock cycle. Great for understanding the baseline data flow and combinational control logic.
@@ -11,6 +11,6 @@ A Logisim-based project featuring both **Single-Cycle** and **Multi-Cycle** impl
 Has the necessary information on how instructions work and how to convert instructions to hexadecimal
 
 ## How to Run
-### Prerequisites
+### Prerequisite(s)
 To open and simulate these processors, you will need **Logisim**. 
 - Download Logisim (v2.7.1 recommended): [Logisim Download](https://sourceforge.net/projects/circuit/)
