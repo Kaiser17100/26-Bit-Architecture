@@ -10,8 +10,14 @@ A Logisim-based project featuring both **Single-Cycle** and **Multi-Cycle** impl
 ## Rulebook
 Has the necessary information on how instructions work and how to convert instructions to hexadecimal
 
-## How to Run
-### Prerequisite(s)
+## Datapaths
+### Single-Cycle
+<img width="1427" height="769" alt="image" src="https://github.com/user-attachments/assets/4ac5faae-79ad-4c87-9649-7bf1effb76c7" />
+
+### Multi-Cycle
+<img width="1427" height="769" alt="image" src="https://github.com/user-attachments/assets/97374195-fa3b-4c50-b7e0-623780562378" />
+
+## Prerequisite(s)
 To open and simulate these processors, you will need **Logisim**. 
 - Download Logisim (v2.7.1 recommended): [Logisim Download](https://sourceforge.net/projects/circuit/)
   
