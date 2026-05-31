@@ -14,3 +14,6 @@ Has the necessary information on how instructions work and how to convert instru
 ### Prerequisite(s)
 To open and simulate these processors, you will need **Logisim**. 
 - Download Logisim (v2.7.1 recommended): [Logisim Download](https://sourceforge.net/projects/circuit/)
+- 
+## License
+This project is open-source and free to use for educational and hobbyist purposes. Feel free to modify and expand it!
